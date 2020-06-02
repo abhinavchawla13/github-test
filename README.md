@@ -1,4 +1,22 @@
-[![Documento Monetized](https://img.shields.io/badge/documento-monetized-brightgreen?style=for-the-badge)](https://github-monetize.web.app/view/5ed5cd38aa9577001717ef26)
-#### Documentation can be found at:
-## [documento](https://github-monetize.web.app/view/5ed5cd38aa9577001717ef26)
-Document is web monetized. You would need a [Coil](https://coil.com/) membership to view it.
+## github-test 
+#### Monetized README.md documentation
+
+### Installing
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+### Executing program
+
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
